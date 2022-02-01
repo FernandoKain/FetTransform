@@ -11,9 +11,7 @@ import time
 # Funções para otimizar o código
 def alttab():
     pyautogui.keyDown('alt')
-    time.sleep(.2)
     pyautogui.press('tab')
-    time.sleep(.2)
     pyautogui.keyUp('alt')
 
 def controlc():
