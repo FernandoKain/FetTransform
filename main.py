@@ -75,6 +75,7 @@ for i in range (5):
     f2()
     controlv()
     enter()
+
     alttab()
 
     down()
@@ -83,6 +84,7 @@ for i in range (5):
     f2()
     controlv()
     enter()
+
     alttab()
 
     down()
@@ -145,6 +147,8 @@ for i in range (5):
     up()
     up()
     right()
+
+
 
     #----------------Próximo dia no FET--------------
     #----------------Próxima Sala--------------
@@ -2868,8 +2872,6 @@ for i in range(22):
 
 pyautogui.click(x=200, y=350)
 #--------------------------------------------------------------------------------------------
-
-
 
 
 
